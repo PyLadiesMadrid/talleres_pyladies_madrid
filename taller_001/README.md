@@ -6,7 +6,7 @@
 </p>
 
 
-## Agenda 
+## Agenda:
 
 * ¿Qué es Python?
 * Instalación.
@@ -27,16 +27,16 @@
 * Yamila Moreno
 
 
-## Diapositivas
+## Diapositivas:
 [Aquí](https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_pyladies_madrid/blob/master/taller_001/slides.ipynb)
 
 
-## Convocatorias
+## Convocatorias:
 
 * [Primera convocatoria](https://www.meetup.com/PyLadiesMadrid/events/246267455/): Jueves 11 de Enero de 2018.
 
 
-## Requisitos
+## Requisitos:
 
 * Ordenador y muchas ganas de aprender y pasarlo bien.
 

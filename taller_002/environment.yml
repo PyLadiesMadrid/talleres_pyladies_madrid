@@ -1,0 +1,12 @@
+name: taller_pyladiesmadrid
+channels:
+- damianavila82
+- conda-forge
+- defaults
+dependencies:
+- ipywidgets
+- jupyter
+- notebook
+- python=3.6
+- rise
+

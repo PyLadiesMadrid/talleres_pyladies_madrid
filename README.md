@@ -1,9 +1,8 @@
 # Taller PyLadies Madrid
 
-<p>
-    <img src="./images/logo_pyladies_madrid.jpg"  width="200" height="200"> 
-    <img src="./images/letras_pyladies_madrid.png" height="200"> 
-</p>
+
+<img src="./images/pyladiesmadrid_alargado.png" height="200"> 
+
 
 
 ## Descripción 
@@ -19,4 +18,5 @@ Se puede encontrar más información en [Meetup PyLadies Madrid](https://www.mee
 Cada carpeta contiene todo lo necesario para seguir dicho taller, y las sesiones son independientes entre sí.
 
 * [Taller 001: Instalación de Python y Primeros Pasos](/taller_001)
+* [Taller 002: Estructuras de control, Funciones y Primeros Retos](/taller_002)
 
