@@ -1,9 +1,6 @@
 # Taller 002 - PyLadies Madrid: "Estructuras de control, Funciones y Primeros Scripts"
 
-<p>
-    <img src="./images/logo_pyladies_madrid.jpg"  width="200" height="200"> 
-    <img src="./images/letras_pyladies_madrid.png" height="200"> 
-</p>
+<img src="./images/pyladiesmadrid_alargado.png" height="200"> 
 
 
 ## Agenda:
@@ -20,8 +17,12 @@
 * Mabel Delgado
 * María Medina
 
-
 ## Con la colaboración de:
+* Wen Lou
+
+
+## Diapositivas:
+[Aquí](https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_pyladies_madrid/blob/master/taller_002/slides_002.ipynb)
 
 
 ## Convocatorias:

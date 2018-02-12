@@ -1,9 +1,6 @@
 # Taller 001 - PyLadies Madrid: "Instalación y Primeros Pasos"
 
-<p>
-    <img src="images/logo_pyladies_madrid.jpg"  width="200" height="200"> 
-    <img src="images/letras_pyladies_madrid.png" height="200"> 
-</p>
+<img src="./images/pyladiesmadrid_alargado.png" height="200"> 
 
 
 ## Agenda:
@@ -20,10 +17,10 @@
 
 ## Impartido por:
 * Mabel Delgado
+* María Medina
 
 
 ## Con la colaboración de:
-* María Medina
 * Yamila Moreno
 
 
@@ -34,6 +31,7 @@
 ## Convocatorias:
 
 * [Primera convocatoria](https://www.meetup.com/PyLadiesMadrid/events/246267455/): Jueves 11 de Enero de 2018.
+* [Segunda convocatoria](https://www.meetup.com/PyLadiesMadrid/events/246606902/): Jueves 1 de Febrero de 2018.
 
 
 ## Requisitos:
