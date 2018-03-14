@@ -19,4 +19,5 @@ Cada carpeta contiene todo lo necesario para seguir dicho taller, y las sesiones
 
 * [Taller 001: Instalación de Python y Primeros Pasos](/taller_001)
 * [Taller 002: Estructuras de control, Funciones y Primeros Retos](/taller_002)
+* [Taller 003: Funciones y Retos Prácticos](/taller_003)
 
