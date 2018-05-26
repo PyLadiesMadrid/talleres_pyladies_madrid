@@ -21,5 +21,5 @@ Cada carpeta contiene todo lo necesario para seguir dicho taller, y las sesiones
 * [Taller 002: Estructuras de control, Funciones y Primeros Retos](https://github.com/PyLadiesMadrid/taller_002_condicionales_funciones)
 * [Taller 003: Funciones y Retos Prácticos](https://github.com/PyLadiesMadrid/taller_003_practica)
 * Taller 004: Manejo y visualización de datos
-* [Taller 005: Aprendizaje por refuerzo en videojuegos con OpenAI](/taller_005)
+* [Taller 005: Aprendizaje por refuerzo en videojuegos con OpenAI](https://github.com/PyLadiesMadrid/taller_005_openai_rl)
 
