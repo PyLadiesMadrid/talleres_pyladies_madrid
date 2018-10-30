@@ -17,9 +17,8 @@ Se puede encontrar más información en [Meetup PyLadies Madrid](https://www.mee
 
 Cada carpeta contiene todo lo necesario para seguir dicho taller, y las sesiones son independientes entre sí.
 
-* [Taller 001: Instalación de Python y Primeros Pasos](https://github.com/PyLadiesMadrid/taller_001_iniciacion)
-* [Taller 002: Estructuras de control, Funciones y Primeros Retos](https://github.com/PyLadiesMadrid/taller_002_condicionales_funciones)
-* [Taller 003: Funciones y Retos Prácticos](https://github.com/PyLadiesMadrid/taller_003_practica)
-* Taller 004: Manejo y visualización de datos
+* [Taller 001: Instalación de Python y Primeros Pasos](https://github.com/PyLadiesMadrid/taller_001_instalacion)
+* [Taller 002: Tipos de datos y operaciones basicas](https://github.com/PyLadiesMadrid/taller_002_tipos_datos_y_operaciones)
+* [Taller 004: Manejo y visualización de datos](https://github.com/PyLadiesMadrid/taller_004_visualizacion_datos)
 * [Taller 005: Aprendizaje por refuerzo en videojuegos con OpenAI](https://github.com/PyLadiesMadrid/taller_005_openai_rl)
 
